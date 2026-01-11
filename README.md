@@ -1,24 +1,20 @@
-# WorkStatus
+Floade v0.1.0
 
-[中文說明](README.zh.md)
+Early AI assistant focused on quick notes. Capture temporary thoughts without opening a new Notion page. Jot now, organize later, always ready.
 
-A lightweight tool centered on work status so individuals and small teams can clearly track what is happening now, next, and later.
+FAQ
 
-## Who it's for
-- Individuals managing their own work
-- Small teams and freelancers
-- Anyone who needs a clear, shareable status
+1) What is Floade?
+- An early assistant focused on quick notes, moving toward a secretary-style product.
 
-## What you can do with it
-- Focus on "what I'm doing now"
-- Share current progress quickly
-- Keep a steady working rhythm with minimal effort
+2) What is the focus?
+- Fast jotting. You can auto-organize with API Key/Model set, or organize manually.
 
-## Download and install
-- Go to Releases in this repository and download the latest version
-- Run `WorkStatus.exe` directly after download
+3) Where does the data go?
+- Only sent to OpenRouter, and only when you trigger organize.
 
-## Quick start
-1. Run `WorkStatus.exe`
-2. Follow the on-screen steps to create your first status
-3. You're ready to go
+4) Can I use it without an API key?
+- Yes. Notes work without AI; auto-organize will be disabled.
+
+Discord
+- https://discord.gg/PktTwPP4vV
